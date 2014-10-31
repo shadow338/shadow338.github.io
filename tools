@@ -1,0 +1,83 @@
+john - active password cracking tool
+rkhunter - rootkit, backdoor, sniffer and exploit scanner
+nikto - webserver vuln. scanner
+httping - ping-like program for http-requests
+httperf - HTTP server performance tester
+apachetop - Realtime Apache monitoring tool
+dnstop - console tool to analyze DNS traffic
+smem - Report memory usage with shared memory divided proportionally
+ftop - show progress of open files and file systems
+ccze - A robust log colorizer
+pidstat - Report statistics for Linux tasks
+sysdig - System and process troubleshooting tool
+cheat - A simple CLI tool which allows you to read cheat sheets
+
+
+Network/Security:
+
+ngrep - network grep
+lsof - list open files
+tcpdump - packet sniffer
+dsniff - password sniffer
+scapy - packet manipulation program
+hping - TCP/IP packet assembler/analyzer
+nmap - network scanner
+arpwatch - keep track of ethernet/ip address pairings
+arping - sends arp and/or ip pings to a given host
+socat - Multipurpose relay
+tcptraceroute - traceroute implementation using TCP packets
+stress - A tool to impose load on and stress test a computer system
+strace - A system call tracer
+netcat - TCP/IP swiss army knife
+ncat - Concatenate and redirect sockets
+3proxy - Tiny but very powerful proxy
+stunnel - Universal SSL tunnel for network daemons
+mtr - a network diagnostic tool
+lynis - scan Linux for vulnerabilities
+
+
+Metrics:
+
+slabtop - display kernel slab cache information in real time
+netperf - network performance benchmark
+ipfer - measure bandwidth performance
+perf - Performance monitoring for the Linux kernel
+nmon - tuner / benchmark tool
+htop - interactive process viewer
+atop - System & Process Monitor
+dstat - replacement for vmstat, iostat and ifstat
+isag - Interactive System Activity Grapher
+iftop - bandwidth usage on an interface by host
+iotop - simple top-like I/O monitor
+fio -  flexible I/O tester
+nethogs - Net top tool grouping bandwidth per process
+tcpick - TCP stream sniffer and connection tracker
+
+
+misc:
+
+monit - utility for monitoring and managing daemons or similar programs
+pflogsumm - Postfix log entry summarizer
+mytop - top like query monitor for MySQL
+
+aide - Advanced Intrusion Detection Environment
+collectl - Utility to collect Linux performance data
+dcfldd - enhanced version of dd for forensics and security
+diffmon - Tool for reporting changes in system configuration
+ioping - Simple disk I/O latency measuring tool
+ips - Intelligent process status
+iwatch - realtime filesystem monitoring program using inotify
+ncdu - ncurses du command
+
+
+Software to test:
+
+axel - Download manager
+alpine - mail client
+aspell - interactive spell checker
+detox - clean up filenames
+dict - dictionary
+elinks - WWW browser
+gnupg - allows to encrypt and sign your data
+mocp - music player
+urfraw - a fast unix command line interface to WWW services
